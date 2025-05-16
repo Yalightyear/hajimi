@@ -1,4 +1,4 @@
-FROM ghcr.io/rzline/hajimi:latest
+FROM ghcr.io/yalightyear/hajimi:latest
 
 EXPOSE 7860
 
